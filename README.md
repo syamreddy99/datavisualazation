@@ -11,30 +11,36 @@ The data used in this project is available in the `Data.csv` file. You can downl
 
 [📂 Download Data.csv](https://drive.google.com/file/d/1fhnb4QYyvOFKMfVfqE-yvvCGBRNWiCzO/view?usp=drive_link)
 
-![Data Visualization](https://via.placeholder.com/600x300)  
+![Data Visualization](https://github.com/syamreddy99/Dynamic-webpage-images-/blob/main/Screenshot%20(37).png?raw=true)  
 *Sample Data Visualization*
 
-## 🛠 Technologies Used
+## 🛠 Technologies & Tools
 
-### **Backend**
-- **Java** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_programming_language_logo.svg/1280px-Java_programming_language_logo.svg.png" width="20" alt="Java Logo"/>
-- **Spring Boot** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Spring_Framework_Logo_2018.svg/1920px-Spring_Framework_Logo_2018.svg.png" width="20" alt="Spring Boot Logo"/>
+### **Programming**
+- **Java** ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+  
+### **Web Development**
+- **HTML5** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- **CSS3** ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-### **Frontend**
-- **React.js** <img src="https://reactjs.org/logo-og.png" width="20" alt="React Logo"/>
+### **Database & Connectivity**
+- **MySQL** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- **JDBC** ![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat&logo=jdbc&logoColor=white)
 
-### **Database**
-- **MongoDB** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Mongodb_logo.svg/1920px-Mongodb_logo.svg.png" width="20" alt="MongoDB Logo"/>
-- **MySQL** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MySQL_logo.svg/1920px-MySQL_logo.svg.png" width="20" alt="MySQL Logo"/>
-- **PostgreSQL** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" width="20" alt="PostgreSQL Logo"/>
+### **Frameworks**
+- **Spring** ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+- **Spring Boot** ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 ### **Visualization Libraries**
-- **D3.js** <img src="https://d3js.org/logo/d3.svg" width="20" alt="D3.js Logo"/>
-- **Chart.js** <img src="https://www.chartjs.org/media/logo-title.svg" width="20" alt="Chart.js Logo"/>
-- **FusionCharts** <img src="https://www.fusioncharts.com/images/logo-fusioncharts.svg" width="20" alt="FusionCharts Logo"/>
-- **Plotly.js** <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="20" alt="Plotly.js Logo"/>
-- **Google Charts** <img src="https://developers.google.com/chart/images/chart_logo.png" width="20" alt="Google Charts Logo"/>
-- **Highcharts** <img src="https://www.highcharts.com/images/branding/highcharts.png" width="20" alt="Highcharts Logo"/>
+- **D3.js** ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3-dot-js&logoColor=white)
+- **Chart.js** ![Chart.js](https://img.shields.io/badge/-Chart.js-F7DF1E?style=flat&logo=chart-dot-js&logoColor=black)
+- **FusionCharts** ![FusionCharts](https://img.shields.io/badge/-FusionCharts-FF9F00?style=flat&logo=fusioncharts&logoColor=white)
+- **Plotly.js** ![Plotly.js](https://img.shields.io/badge/-Plotly.js-3D4D6C?style=flat&logo=plotly&logoColor=white)
+- **Google Charts** ![Google Charts](https://img.shields.io/badge/-Google%20Charts-4285F4?style=flat&logo=google-charts&logoColor=white)
+- **Highcharts** ![Highcharts](https://img.shields.io/badge/-Highcharts-1F77B4?style=flat&logo=highcharts&logoColor=white)
+
 
 ## 🚀 Key Features
 - Interactive graphs, charts, and visuals.
